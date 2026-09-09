@@ -27,7 +27,8 @@ construction projects.
 
 ## Paper
 
-[Download the full paper](Dmitrishin_2018_NPP_Probabilistic_Optimization.pdf)
+- [Full paper](Dmitrishin_2018_NPP_Probabilistic_Optimization.pdf)
+- [Summary](summary.pdf)
 
 ## Citation
 
