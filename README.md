@@ -1,5 +1,10 @@
 # Mathematical Optimization and Forecasting of Nuclear Power Plant Construction Progress using Probabilistic Models and Machine Learning Methods
 
+## Author
+
+**Yuriy Dmitrishin**  
+Personal website: [https://dmitrishin.github.io/](https://dmitrishin.github.io/)
+
 ## Overview
 
 This work presents a generalized framework for probabilistic forecasting
