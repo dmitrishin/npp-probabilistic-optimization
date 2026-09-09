@@ -1,6 +1,17 @@
 # npp-probabilistic-optimization
 
 
+## Citation
+
+If you use this work in research, software, project management methodology,
+or a commercial implementation, please cite the original publication:
+
+Yuriy Dmitrishin, "Mathematical Optimization and Forecasting of Nuclear
+Power Plant Construction Progress using Probabilistic Models and Machine
+Learning Methods", 2018.
+
+DOI: https://doi.org/10.5281/zenodo.15373676
+
 ## License
 Copyright © 2025 Yuriy Dmitrishin
 
