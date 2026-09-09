@@ -1,5 +1,28 @@
 # Mathematical Optimization and Forecasting of Nuclear Power Plant Construction Progress using Probabilistic Models and Machine Learning Methods
 
+## Overview
+
+This work presents a generalized framework for probabilistic forecasting
+and optimization of nuclear power plant construction projects under
+uncertainty.
+
+The approach combines:
+
+- PERT and GERT network models;
+- Monte Carlo simulation;
+- probabilistic critical and subcritical path analysis;
+- decision-making criteria under risk and uncertainty;
+- local and iterative schedule optimization;
+- multidimensional project trajectory modeling;
+- machine learning methods for forecasting.
+
+The framework is intended to support predictive project management,
+scenario analysis, and adaptive optimization of complex nuclear
+construction projects.
+
+## Paper
+
+[Download the full paper](Dmitrishin Yuriy - Mathematical Optimization and Forecasting of NPP- 2018.pdf)
 
 ## Citation
 
