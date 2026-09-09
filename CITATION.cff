@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the original publication."
+
+title: "NPP Probabilistic Optimization"
+authors:
+  - family-names: "Dmitrishin"
+    given-names: "Yuriy"
+
+repository-code: "https://github.com/dmitrishin/npp-probabilistic-optimization"
+license: "CC-BY-4.0"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Dmitrishin"
+      given-names: "Yuriy"
+  title: "Mathematical Optimization and Forecasting of Nuclear Power Plant Construction Progress using Probabilistic Models and Machine Learning Methods"
+  year: 2018
+  doi: "10.5281/zenodo.15373676"
