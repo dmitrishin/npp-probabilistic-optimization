@@ -22,7 +22,7 @@ construction projects.
 
 ## Paper
 
-[Download the full paper](Dmitrishin Yuriy - Mathematical Optimization and Forecasting of NPP- 2018.pdf)
+[Download the full paper](Dmitrishin_2018_NPP_Probabilistic_Optimization.pdf)
 
 ## Citation
 
