@@ -2,7 +2,7 @@
 
 ## Author
 
-**Yuriy Dmitrishin**  
+**Yuriy Dmitrishin**
 Personal website: [https://dmitrishin.github.io/](https://dmitrishin.github.io/)
 
 ## Overview
