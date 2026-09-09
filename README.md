@@ -1,4 +1,4 @@
-# npp-probabilistic-optimization
+# Mathematical Optimization and Forecasting of Nuclear Power Plant Construction Progress using Probabilistic Models and Machine Learning Methods
 
 
 ## Citation
