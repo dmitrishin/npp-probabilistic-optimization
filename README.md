@@ -13,7 +13,7 @@ Learning Methods", 2018.
 DOI: https://doi.org/10.5281/zenodo.15373676
 
 ## License
-Copyright © 2025 Yuriy Dmitrishin
+Copyright © 2026 Yuriy Dmitrishin
 
 This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
