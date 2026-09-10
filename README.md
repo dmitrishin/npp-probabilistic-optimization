@@ -42,7 +42,7 @@ Learning Methods", 2018.
 DOI: https://doi.org/10.5281/zenodo.15373676
 
 ## Related
-[Recommendations for Implementing Artificial Intelligence Technologies in Nuclear Power Plant Construction Processes)](https://github.com/dmitrishin/ai-for-npp-construction)
+[Recommendations for Implementing AI Technologies in NPP Construction Processes)](https://github.com/dmitrishin/ai-for-npp-construction)
 
 ## License
 Creative Commons Attribution 4.0 International (CC BY 4.0)
